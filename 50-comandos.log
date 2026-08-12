@@ -1,0 +1,16 @@
+   41  head -n 2 El-arriero.txt | tail -n 1
+   42  cat El-arriero.txt | tr ' ' '\n' | sort | uniq -c | sort -nr > El-arriero-palabras-decreciente.lst
+   43  cd Unidad4
+   44  https://github.com/sofiarypka/mi_primer_repositorio.git
+   45  git clone https://github.com/sofiarypka/mi_primer_repositorio.git
+   46  git pull\n
+   47  cd Unidad4\n
+   48  cd Unidad4\n
+   49  git clone https://github.com/sofiarypka/danza-moderna-argentina.git \n
+   50  cd Unidad 4
+   51  cd Unidad4
+   52  git add foto_OttoWerberg.jpg
+   53  git add foto_OttoWerberg.jpg
+   54  git add fotoOtto.jpg
+   55  wc -w El-arriero.txt
+   56  cat El-arriero.txt | tr ' ' '\n' | grep "vaquitas" | wc -l
